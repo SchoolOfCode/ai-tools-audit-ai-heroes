@@ -45,10 +45,37 @@ Lexplore is a valuable tool for identifying dyslexia and supporting students wit
 Gradescope is an AI tool that automates the grading process for various assignment types, including multiple-choice, handwritten, and coding assignments. It is widely used in large institutions to streamline grading and feedback, offering an Autograder feature for coding assignments.
 
 **Opportunities:**  
-Gradescope can significantly reduce teachers' grading workloads, enhance the feedback provided to students, and ensure consistency in grading. It supports a wide range of assignment types, allowing teachers to focus more on instruction and less on administrative tasks.
+Gradescope can significantly reduce teachers' grading workloads, enhance the feedback provided to students, and ensure consistency in grading. It supports a wide range of assignment types, allowing teachers to focus more on instruction and less on administrative tasks. 
+
+Pros: 
+
+Efficient grading
+Quick student submissions
+Provides enhanced feedback for students
+Ensures academic integrity 
+
+👎Cons:
+
+Has a learning curve
+May have technical glitches
+Some features are expensive  
+
+The Institutional plan offers many more benefits, while the Basic plan is limited to several features:
+
+Dynamic Rubrics
+Question by Question Grading
+Basic Assignment Types
+Student-uploaded and Instructor-uploaded PDF
+Assignment Statistics
+Regrade Requests
+Data Export
+Student Mobile App
 
 **Risks:**  
 Gradescope presents a learning curve for new users and may encounter occasional technical glitches. Additionally, the platform's premium features can be costly, which may be a barrier for smaller institutions or individual users.
+
+Some of the potential risks around security can be found here:
+https://www.upguard.com/security-report/gradescope
 
 **Evaluation and Recommendation:**  
 Gradescope offers substantial benefits in terms of efficiency and grading consistency. Its features, particularly the AI-Assisted Grading and Autograder, make it a valuable tool for educational institutions, especially those handling large student populations. It is recommended for adoption, with attention to training and support for educators to ease the learning curve.
