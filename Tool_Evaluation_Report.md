@@ -16,6 +16,11 @@ Ivy.ai is an AI-powered chatbot platform designed to support universities and co
 **Opportunities:**  
 Ivy.ai can reduce administrative workloads, streamline communications with students, parents, and staff, and provide essential information on services like tuition, scholarships, and more. For institutions with large student bodies, Ivy.ai could save significant resources by centralizing services.
 
+**Case Studies:**
+Temple University: Reduced call volume by 50%.
+Broward College: Saved $500,000.
+Students prefer chatbots over search engines.
+
 **Risks:**  
 Risks include job displacement due to automation, challenges with system integration, and data privacy concerns. Ivy.ai’s integration with legacy systems may prove difficult, and it must adhere to strict privacy regulations like GDPR or FERPA.
 
