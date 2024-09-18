@@ -14,7 +14,7 @@ But a startling statistic published by the Guardian tells us that perhaps an ove
 
 In steps Lexplore Analytics, one tool that can help identify students with needs that may require additional help and attention.
 
-# Benefits: How do the tools work:
+# Benefits: How does the tool work:
 - Eye-tracking technology that can assess reading ability and identify dyslexia. Can detect minor differences in eye movement patterns, which can indicate how the brain processes text.  
 - AI Analysis that provides detailed insights to help teachers tailor their instructions to meet individual needs. Data collected is analyzed using AI algorithms. Using the data, it can determine a child’s reading ability in just 3-5 minutes, providing objective real-time data, that helps identify students.
 
