@@ -40,6 +40,11 @@ There are concerns regarding the security and accuracy of the AI system. Lexplor
 **Evaluation and Recommendation:**  
 Lexplore is a valuable tool for identifying dyslexia and supporting students with reading difficulties. Despite concerns about data security, the benefits to students and educators justify its implementation in schools, particularly for early intervention programs.
 
+**Case Studies:**
+
+![alt text](image-2.png)
+
+
 ### 3. Gradescope
 **About Gradescope:**  
 Gradescope is an AI tool that automates the grading process for various assignment types, including multiple-choice, handwritten, and coding assignments. It is widely used in large institutions to streamline grading and feedback, offering an Autograder feature for coding assignments.
