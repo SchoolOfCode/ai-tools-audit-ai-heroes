@@ -16,10 +16,6 @@ The AI tool provides essential information to students, such as details on loans
 
 ## A. Opportunity
 
-### Example Questions to Answer:
-- What problems does this tool solve?
-- How can it improve current processes?
-
 Ivy.ai helps schools and colleges reduce administrative workload while offering AI services to key stakeholders such as parents, staff, and students. In a Multi-Academy Trust with over 7,000 students, 800 staff, and over 10,000 parents, the administrative costs are significant. Last year, £130,000 was spent on student services, HR, and IT helpdesk combined. Ivy.AI can streamline these services into a centralized AI chatbot where data is submitted and distributed through a retrieved augmented generation (RAG) service.
 
 ### 3 Focus Areas for Ivy.AI in Your Organisation:
@@ -35,10 +31,6 @@ Ivy.ai helps schools and colleges reduce administrative workload while offering 
 ---
 
 ## B. Risk
-
-### Example Questions to Answer:
-- What are the potential downsides?
-- Are there security or compliance concerns?
 
 ### 1. Job Displacement:
 **Risk:** The automation of tasks like customer service, student inquiries, and IT support could lead to job displacement in administrative roles.
@@ -59,11 +51,6 @@ Ivy.ai helps schools and colleges reduce administrative workload while offering 
 ---
 
 ## C. Tangible Benefit
-
-### Example Metrics to Consider:
-- Cost savings
-- Time efficiency
-- Productivity gains
 
 ### Cost Savings:
 AI adoption in schools can save administrators up to 10 hours per week, equating to savings of around £20,000 annually per employee. With six schools, this could save £120,000 annually.
