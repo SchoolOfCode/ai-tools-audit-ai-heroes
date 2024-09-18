@@ -1,7 +1,10 @@
 
 # Tool Evaluation Report
 
+We're working for Outwood Academy, a Multi-Academy Trust with over 7,000 students, 800 staff, and over 10,000 parents, the administrative costs are significant. Last year, £200,000 was spent on student services, HR, and IT helpdesk combined. The following report details ways in which your Trust can streamline key school services such as meeting different learning needs, reducing teachers workload, and streamlining student services and HR.  
+
 ## Executive Summary
+
 This report evaluates three educational technology tools: Ivy.ai, Lexplore, and Gradescope. Each of these tools provides significant benefits in the educational space, from automating administrative and assessment tasks to enhancing student learning. However, each tool also has associated risks, particularly in areas like data privacy, AI bias, and integration challenges. This report offers a detailed analysis of each tool's opportunities, risks, and recommendations for adoption.
 
 ## Introduction
@@ -22,7 +25,7 @@ Broward College: Saved $500,000.
 Students prefer chatbots over search engines.
 
 **Risks:**  
-Risks include job displacement due to automation, challenges with system integration, and data privacy concerns. Ivy.ai’s integration with legacy systems may prove difficult, and it must adhere to strict privacy regulations like GDPR or FERPA.
+Risks include job displacement due to automation, challenges with system integration, and data privacy concerns. Ivy.ai’s integration with legacy systems may prove difficult, and it must adhere to strict privacy regulations like GDPR.
 
 **Evaluation and Recommendation:**  
 While the risk of job displacement and data privacy concerns exists, the overall benefits in cost reduction and efficiency outweigh the risks. Institutions should begin with a pilot program, conduct a data privacy assessment, and offer training to ensure smooth adoption and ongoing monitoring.
